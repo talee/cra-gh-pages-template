@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# cra-gh-pages-template
+
+1. Modify homepage in `package.json`
+1. `yarn deploy`
 
 ## Available Scripts
 
